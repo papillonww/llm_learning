@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "01-instructgpt",
+    "arxiv_id": "2203.02155",
+    "title": "InstructGPT",
+    "depth": "精读",
+    "focus": "SFT、奖励模型、RL、数据与能力保持",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "pdf_url": "https://arxiv.org/pdf/2203.02155",
+    "file": "pdf/01-instructgpt.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "02-deepseekmath",
+    "arxiv_id": "2402.03300",
+    "title": "DeepSeekMath",
+    "depth": "精读",
+    "focus": "数据、继续预训练与 GRPO",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "pdf_url": "https://arxiv.org/pdf/2402.03300",
+    "file": "pdf/02-deepseekmath.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "03-lora",
+    "arxiv_id": "2106.09685",
+    "title": "LoRA",
+    "depth": "方法与实验",
+    "focus": "低秩更新、初始化、适配与干扰",
+    "url": "https://arxiv.org/abs/2106.09685",
+    "pdf_url": "https://arxiv.org/pdf/2106.09685",
+    "file": "pdf/03-lora.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "04-dpo",
+    "arxiv_id": "2305.18290",
+    "title": "Direct Preference Optimization",
+    "depth": "精读推导",
+    "focus": "KL 约束目标到偏好 loss",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "pdf_url": "https://arxiv.org/pdf/2305.18290",
+    "file": "pdf/04-dpo.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "05-deepseek-r1",
+    "arxiv_id": "2501.12948",
+    "title": "DeepSeek-R1",
+    "depth": "训练流程",
+    "focus": "cold start、RL、筛选与蒸馏",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "pdf_url": "https://arxiv.org/pdf/2501.12948",
+    "file": "pdf/05-deepseek-r1.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "06-chinchilla",
+    "arxiv_id": "2203.15556",
+    "title": "Training Compute-Optimal Large Language Models",
+    "depth": "选读",
+    "focus": "参数、token 与计算预算",
+    "url": "https://arxiv.org/abs/2203.15556",
+    "pdf_url": "https://arxiv.org/pdf/2203.15556",
+    "file": "pdf/06-chinchilla.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "07-deepseek-v3",
+    "arxiv_id": "2412.19437",
+    "title": "DeepSeek-V3 Technical Report",
+    "depth": "回读",
+    "focus": "MLA、MoE、MTP、数据与消融",
+    "url": "https://arxiv.org/abs/2412.19437",
+    "pdf_url": "https://arxiv.org/pdf/2412.19437",
+    "file": "pdf/07-deepseek-v3.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "08-doc-to-lora",
+    "arxiv_id": "2602.15902",
+    "title": "Doc-to-LoRA",
+    "depth": "专题选读",
+    "focus": "知识内化及 C.4 知识干扰",
+    "url": "https://arxiv.org/abs/2602.15902",
+    "pdf_url": "https://arxiv.org/pdf/2602.15902",
+    "file": "pdf/08-doc-to-lora.pdf",
+    "download_status": "pending"
+  },
+  {
+    "slug": "09-alphaedit",
+    "arxiv_id": "2410.02355",
+    "title": "AlphaEdit",
+    "depth": "专题选读",
+    "focus": "零空间约束、保护范围与局限",
+    "url": "https://arxiv.org/abs/2410.02355",
+    "pdf_url": "https://arxiv.org/pdf/2410.02355",
+    "file": "pdf/09-alphaedit.pdf",
+    "download_status": "pending"
+  }
+]
