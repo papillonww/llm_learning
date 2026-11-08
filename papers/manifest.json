@@ -8,7 +8,11 @@
     "url": "https://arxiv.org/abs/2203.02155",
     "pdf_url": "https://arxiv.org/pdf/2203.02155",
     "file": "pdf/01-instructgpt.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:56:57.854684+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2203.02155",
+    "bytes": 1797405,
+    "sha256": "c1984bb50a5b90fddb895fdc3a0f72e5bc977148c9f63ef6040cbe7a3e1f0d98"
   },
   {
     "slug": "02-deepseekmath",
@@ -19,7 +23,11 @@
     "url": "https://arxiv.org/abs/2402.03300",
     "pdf_url": "https://arxiv.org/pdf/2402.03300",
     "file": "pdf/02-deepseekmath.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:00.675603+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2402.03300",
+    "bytes": 1844642,
+    "sha256": "6cc20b3c5b8d25b8b53868fc4ec1792c144f07d67bdf7395138efd4422197e7b"
   },
   {
     "slug": "03-lora",
@@ -30,7 +38,11 @@
     "url": "https://arxiv.org/abs/2106.09685",
     "pdf_url": "https://arxiv.org/pdf/2106.09685",
     "file": "pdf/03-lora.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:03.385516+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2106.09685",
+    "bytes": 1609513,
+    "sha256": "e9a0d3128767db616085dc0f4e6e455e672e89af823e8ed1282793682787395a"
   },
   {
     "slug": "04-dpo",
@@ -41,7 +53,11 @@
     "url": "https://arxiv.org/abs/2305.18290",
     "pdf_url": "https://arxiv.org/pdf/2305.18290",
     "file": "pdf/04-dpo.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:06.196850+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2305.18290",
+    "bytes": 1299212,
+    "sha256": "92cb3a2b71362acda98a789b03d88688fd33cf5fcf13f81d2b1de30ee7d3b67a"
   },
   {
     "slug": "05-deepseek-r1",
@@ -52,7 +68,11 @@
     "url": "https://arxiv.org/abs/2501.12948",
     "pdf_url": "https://arxiv.org/pdf/2501.12948",
     "file": "pdf/05-deepseek-r1.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:09.255341+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2501.12948",
+    "bytes": 5034998,
+    "sha256": "b191b0a365a64b4ab2791d117069ed17a2933d03554a662ced58b37df52018f4"
   },
   {
     "slug": "06-chinchilla",
@@ -63,7 +83,11 @@
     "url": "https://arxiv.org/abs/2203.15556",
     "pdf_url": "https://arxiv.org/pdf/2203.15556",
     "file": "pdf/06-chinchilla.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:12.544782+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2203.15556",
+    "bytes": 6004349,
+    "sha256": "3fd3632a8ef48171bd25282990221d49535d75356192f068b3b2ebe08f2aedd4"
   },
   {
     "slug": "07-deepseek-v3",
@@ -74,7 +98,11 @@
     "url": "https://arxiv.org/abs/2412.19437",
     "pdf_url": "https://arxiv.org/pdf/2412.19437",
     "file": "pdf/07-deepseek-v3.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:15.327986+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2412.19437",
+    "bytes": 1887366,
+    "sha256": "812a3fd645c80725354de9d831a6785503007a60681461407f64e97305fa9330"
   },
   {
     "slug": "08-doc-to-lora",
@@ -85,7 +113,11 @@
     "url": "https://arxiv.org/abs/2602.15902",
     "pdf_url": "https://arxiv.org/pdf/2602.15902",
     "file": "pdf/08-doc-to-lora.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:18.075387+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2602.15902",
+    "bytes": 1177159,
+    "sha256": "9fa17ca8eceb47e1262e72700a42f5107426f0215d582b56486f4a819c44fce8"
   },
   {
     "slug": "09-alphaedit",
@@ -96,6 +128,10 @@
     "url": "https://arxiv.org/abs/2410.02355",
     "pdf_url": "https://arxiv.org/pdf/2410.02355",
     "file": "pdf/09-alphaedit.pdf",
-    "download_status": "pending"
+    "download_status": "downloaded",
+    "downloaded_at_utc": "2026-11-08T18:57:21.539083+00:00",
+    "resolved_url": "https://arxiv.org/pdf/2410.02355",
+    "bytes": 17400593,
+    "sha256": "1b99c31b28f5e5e069f111beaf286258092bd0fac1e81ff9bacbd936259736cc"
   }
 ]
