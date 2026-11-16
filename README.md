@@ -6,6 +6,8 @@
 
 ## 从这里开始
 
+**日常先打开 [阅读与实践执行提纲](plans/study-outline.md)**：按单元读材料、回答问题、完成练习和验收；文末有今天的 4 小时任务。下面的文件用于查细节。
+
 1. 读 [总路线](plans/roadmap.md)，了解模型演进、练习与项目如何衔接。
 2. 对照 [模型演进地图](plans/model-evolution.md)，从 GPT-2 / Qwen2.5 已读代码出发，按“历史关键变化 + 当前模型对比”学习。
 3. 今天执行 [接下来 7 天](plans/week-01.md) 的第 1 天；InstructGPT 只做复述与查漏，随后进入 LLaMA / Qwen 的结构差异。
@@ -28,6 +30,7 @@
 
 | 路径 | 用途 |
 | --- | --- |
+| plans/study-outline.md | 日常执行入口：阅读、问题、练习、完成标准与今天任务 |
 | plans/roadmap.md | 14 周主线、每周预算及 12 周压缩方法 |
 | plans/model-evolution.md | 代表模型、关键变化、源码阅读和配套练习 |
 | plans/week-01.md | 从已读代码与 InstructGPT 接续的 7 天任务 |
